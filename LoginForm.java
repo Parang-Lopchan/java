@@ -1,5 +1,4 @@
 import javax.swing.*;
-import java.awt.event.*;
 
 public class LoginForm {
     public static void main(String[] args) {
